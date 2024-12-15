@@ -58,8 +58,8 @@
 </div>
 
 <a href="https://github.com/hampusnilsson1/CNN_face_recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hampusnilsson1&repo=CNN_face_recognition&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hampusnilsson1&repo=CNN_face_recognition&theme=radical" />
 </a>
 <a href="https://github.com/hampusnilsson1/InventoryManagementSystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hampusnilsson1&repo=InventoryManagementSystem&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hampusnilsson1&repo=InventoryManagementSystem&theme=radical" />
 </a>
