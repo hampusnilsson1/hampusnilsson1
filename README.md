@@ -60,6 +60,6 @@
 <a href="https://github.com/hampusnilsson1/CNN_face_recognition">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hampusnilsson1&repo=CNN_face_recognition&theme=radical" />
 </a>
-<a href="https://github.com/hampusnilsson1/FBG_Assistent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hampusnilsson1&repo=FBG_Assistent&theme=radical" />
+<a href="https://github.com/hampusnilsson1/InventoryManagementSystem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hampusnilsson1&repo=InventoryManagementSystem&theme=radical" />
 </a>
