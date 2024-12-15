@@ -1,4 +1,4 @@
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+## 🛠️ **Technologies & Tools**
 
 <div align="center">
   <table>
