@@ -1,31 +1,4 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-
-  <div style="flex: 1; text-align: center; min-width: "150px";">
-    <h5> ☕ &nbsp;Java</h5>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring framework" width="45" height="45"/>
-  </div>
-
-  <div style="flex: 1; text-align: center; min-width: "150px";">
-    <h5> ⚙️ &nbsp;C#</h5>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
-  </div>
-
-  <div style="flex: 1; text-align: center; min-width: "150px";">
-    <h5> 🐍 &nbsp;Python</h5>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
-  </div>
-
-</div>
-
-
-
 <h5> ☕ &nbsp;Java</h5>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
